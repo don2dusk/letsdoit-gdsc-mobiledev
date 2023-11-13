@@ -1,16 +1,20 @@
-# todo_list
+# LetsDoIt
 
-A new Flutter project.
+A simple to-do notes app implemented in Flutter for the GDSC Mobile Development track.
 
 ## Getting Started
+To be able to download a local copy and store on your device, I advise you make a fork of the repository instead of directly cloning the repository in order to easily account for new commits on this repository.
 
-This project is a starting point for a Flutter application.
+### Forking the repo
+- Click on the fork icon at the top right hand area of this repository.
+- Clone the forked repository to your local device
+``` bash
+git clone https://github.com/yourusername/letsdoit-gdsc_mobiledev.git
+```
+- Open the folder in your desired IDE/Code Editor and make your changes
 
-A few resources to get you started if this is your first Flutter project:
+When you are done, you can make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and your changes can be merged with the main branch.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Happy Contributing!**
